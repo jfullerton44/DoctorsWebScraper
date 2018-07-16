@@ -6,3 +6,4 @@ scrapeinapp.py
 venv
 .idea
 
+credentials.py
