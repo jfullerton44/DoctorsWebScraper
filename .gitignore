@@ -1,0 +1,8 @@
+scrapetodb.py
+scrapetodbdocker.py
+scrapeinapp.py
+**/venv
+*/venv
+venv
+.idea
+
